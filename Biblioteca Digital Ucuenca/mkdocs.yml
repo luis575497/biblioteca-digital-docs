@@ -1,0 +1,6 @@
+site_name: Biblioteca Digital
+nav:
+    - Biblioteca Digital Ucuenca: index.md
+    - Guía de Digitalización: digitalizacion.md
+    - About: about.md
+theme: readthedocs

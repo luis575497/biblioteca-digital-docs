@@ -1,4 +1,5 @@
 site_name: Biblioteca Digital Ucuenca
+
 nav:
     - Biblioteca Digital Ucuenca: index.md
     - Guía de Digitalización: digitalizacion.md
@@ -6,5 +7,24 @@ nav:
 
 markdown_extensions:
     - admonition
+    - footnotes
+    - attr_list
+    - codehilite:
+        guess_lang: false
+    - def_list
+    - md_in_html
+    - meta
+    - pymdownx.caret
+    - pymdownx.critic
+    - pymdownx.details
+    - pymdownx.keys
+    - pymdownx.snippets
+    - pymdownx.superfences
+    - pymdownx.tabbed
+    - pymdownx.tasklist:
+        custom_checkbox: true
+    - pymdownx.tilde
 
 theme: readthedocs
+
+footer: "Creado por el Centro de Documentación Regional Juan Bautista Vázquez"

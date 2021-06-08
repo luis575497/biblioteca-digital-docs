@@ -88,36 +88,40 @@ La prevención es una actividad fundamental para el cuidado de la salud del pers
 ## Acciones de digitalización para documentos en formato papel.
 ### Registro de digitalización
 Antes de comenzar la digitalización se deberá incluir el documento en el registro de documentos digitalizados. En el mismo se deberán llenar las siguientes columnas:
-
-- Fecha de Digitalización: fecha en que inicia la digitalización, formato de fecha dd/mm/aaaa.
-- Datos del libro: poner el título del libro, autor, edición y año de publicación separados por un guión medio “-”.
-- Signatura.
-- Código de barras.
-- Campus.
-- No de hojas: Cantidad de hojas total del documento a digitalizar.
-- Modo: Seleccionar con una X la escala de colores que se utilizó para la digitalización: Blanco y Negro, escala de grises o color 24 bits.
-- Resolución (dpi): Seleccionar la resolución utilizada 200dpi, 300dpi o 400dpi.
-- OCR: Seleccionar con una X si se realizó el reconocimiento óptico de caracteres al documento.
-- Modelo de Scanner: Seleccionar el modelo del equipo que se utilizó para digitalizar.
-- Responsable de la digitalización: Persona que realiza o supervisa el proceso de digitalización.
+!!! tip "Elementos del registro de digitalización"
+    - **Fecha de Digitalización:** fecha en que inicia la digitalización, formato de fecha dd/mm/aaaa.
+    - **Datos del libro:** poner el título del libro, autor, edición y año de publicación separados por un guión medio “-”.
+    - **Signatura:** Signatura topográfica del libro
+    - **Código de barras:** Código de barras del libro
+    - **Campus:** Campus en el que se realiza la digitalización
+    - **No de hojas:** Cantidad de hojas total del documento a digitalizar.
+    - **Modo:** Seleccionar con una X la escala de colores que se utilizó para la digitalización: Blanco y Negro, escala de grises o color 24 bits.
+    - **Resolución (dpi):** Seleccionar la resolución utilizada 200dpi, 300dpi o 400dpi.
+    - **OCR:** Seleccionar con una X si se realizó el reconocimiento óptico de caracteres al documento.
+    - **Modelo de Scanner:** Seleccionar el modelo del equipo que se utilizó para digitalizar.
+    - **Responsable de la digitalización:** Persona que realiza o supervisa el proceso de digitalización.
 
 ### Especificaciones técnicas para captura digital
 El Centro de Documentación Regional Juan Bautista Vázquez por motivos de almacenamiento ha decidido que en el proceso de digitalización no existirán copias master sino que directamente se convertirán todas las imágenes en el estándar de formato PDF/A-3b, debido a que es un formato adecuado para la conservación a largo plazo de los documentos además que esta versión permite compresión, elementos transparentes y capas. 
->El PDF/A es un PDF diseñado para el archivado de documentos a largo plazo. Se sustenta por la Norma Técnica ISO 19005-1:2005. Para este caso largo plazo es la expresión utilizada para identificar la necesidad de preservar funcionalmente documentos electrónicos por espacios de tiempo superiores a 5 años. PDF/A es el primer formato de archivo electrónico convertido en estándar ISO, que garantiza que los documentos que se crean hoy, se podrán abrir y utilizar en el futuro.
-(Archivo General de la Nación de Colombia, 2017, p.9)
+    
+!!! cite "Definición de PDF/A" 
+    El PDF/A es un PDF diseñado para el archivado de documentos a largo plazo. Se sustenta por la Norma Técnica ISO 19005-1:2005. Para este caso largo plazo es la expresión utilizada para identificar la necesidad de preservar funcionalmente documentos electrónicos por espacios de tiempo superiores a 5 años. PDF/A es el primer formato de archivo electrónico convertido en estándar ISO, que garantiza que los documentos que se crean hoy, se podrán abrir y utilizar en el futuro.[^1]
 
 Para páginas de libros donde solo aparezca texto se utilizará la siguiente configuración:
 
-| **Calidad**  | **Resolución**  | **Profundidad de color**  | **Formato**  | **Compresión**  | **Características** |
-| ------------ | --------------- | ------------------------- | ------------ | --------------- | ------------------- |
-| Óptima | 300 dpi | Blanco y negro | PDF | Ninguna | OCR |
-
-Para páginas de libros donde solo imágenes se utilizará la siguiente configuración:
-
-| **Calidad**  | **Resolución**  | **Profundidad de color**  | **Formato**  | **Compresión**  | **Características** |
-| ------------ | --------------- | ------------------------- | ------------ | --------------- | ------------------- |
-| Óptima       | 300 dpi         | Color 24 bits             | PDF          | Ninguna         | OCR                 | 
+!!! tip "Configuración para páginas con texto"  
+      **Resolución:** 300 dpi  
+      **Profundidad de color:** Blanco y negro  
+      **Formato:** PDF  
+      **Características:** OCR
   
+Para páginas de libros donde solo imágenes se utilizará la siguiente configuración:  
+
+!!! tip "Configuración para páginas con imágenes"  
+      **Resolución:** 300 dpi  
+      **Profundidad de color:** Color 24 bits  
+      **Formato:** PDF  
+      **Características:** OCR
 >
 
 ### Digitalización con software NAPS2:  
@@ -136,17 +140,34 @@ Paso 1: Abrir Software
   Paso 5: Comenzar a digitalizar haciendo click en el botón Escanear:
 ![](./Fotos/8.jpg)
 
-### Digitalzación con dispositivos móviles
+### Digitalzación con dispositivos móviles  
+**Soporte para libros**  
+Construir un soporte de cartón para no dañar la encuadernación y facilitar la iluminación, se debe contar con un cristal y una lámpara para evitar las sombras.  
+[Tutorial para construir el soporte](https://www.instructables.com/Bargain-Price-Book-Scanner-From-A-Cardboard-Box/)
+![](./Fotos/15.jpg)
+
+**Cámara del dispositivo:**  
+La cámara del dispositivo que realizará la fotografía deberá ser de 10 a 12 megapíxeles para obtener una imagen con una calidad de 300dpi.  
+
+**Digitalización**  
+Aplicación [CamScaner](https://play.google.com/store/apps/details?id=com.intsig.camscanner&hl=es&gl=US):  
+- Opción Docs  
+- Sin sombras o B&W2    
+- Corrección (eliminar opciones)  
 
 ### Metadatos
-Los metadatos que se cargarán al documento pdf serán los siguientes:
+!!! done "Metadatos a incluir en los documentos digitalizados"
+    **Título**: Transcribir el título de la obra original.  Utilizar mayúsculas únicamente en la primera palabra del título y en nombres propios. Los subtítulos deben separarse del título mediante dos puntos, precedidos y seguidos por un espacio.  
+    `Ejemplo: El quechua y el cañari: contribución para la historia precuencana`
+      
+    **Autor**: Para nombres personales utilizar el formato continuo de tal forma que la sintaxis sea: “Nombres” + “Apellidos”. En caso de tener varios autores se deberán separar por puntos.  
+    ``Ejemplo: Octavio Cordero Palacios. Enmanuel Kant``  
+    
+    **Materia**: La materia se pondrá de acuerdo a su clasificación en el sistema de clasificación que implementa la biblioteca (Clasificación Decimal Dewey). Los términos se consignan sólo con la primera palabra en mayúsculas.  
+    `Ejemplo: Lenguas indígenas`  
 
-| **Metadatos** | **Descripción** |
-| ------------- | ----------------|
-|**Título**| Transcribir el título de la obra original.  Utilizar mayúsculas únicamente en la primera palabra del título y en nombres propios. Los subtítulos deben separarse del título mediante dos puntos, precedidos y seguidos por un espacio. ```Ejemplo: El quechua y el cañari: contribución para la historia precuencana```|
-|**Autor**| Para nombres personales utilizar el formato continuo de tal forma que la sintaxis sea: “Nombres” + “Apellidos”. En caso de tener varios autores se deberán separar por puntos.  ``Ejemplo: Octavio Cordero Palacios. Enmanuel Kant``|
-|**Materia**| La materia se pondrá de acuerdo a su clasificación en el sistema de clasificación que implementa la biblioteca (Clasificación Decimal Dewey). Los términos se consignan sólo con la primera palabra en mayúsculas. ```Ejemplo: Lenguas indígenas```|
-|**Palabras clave**| Las palabras claves son de libre asignación por parte del bibliotecario y deberán estar separadas por puntos. ```Ejemplo: Historia. Filosofía. Pensadores```|    
+    **Palabras clave**: Las palabras claves son de libre asignación por parte del bibliotecario y deberán estar separadas por puntos.  
+    `Ejemplo: Historia. Filosofía. Pensadores`    
   
   >  
 
@@ -159,20 +180,23 @@ Paso 1: Una vez escaneada las páginas se procede a configurar el pdf para expor
 ### Nomenclatura de los archivos
 Una vez escaneado todo el documento e incluidos los metadatos se procederá a guardar el documento. Para confeccionar los nombres de los documentos se utilizarán los siguientes elementos y estructura:
   
-|  **Elementos**   |  **Descripción**   |  
-| ---------------- | ------------------ |
-| **Título**   | Se pondrá el título principal de la obra, no se incluye el subtítulo |
-| **Autor**    | Se pondrá solo el primer apellido del primer autor.                  |
-| **Edición**  | Se pondrá el número de la edición                  |  
+!!! done "Elmentos de la nomenclatura"  
+    **Título**: Se pondrá el título principal de la obra, no se incluye el subtítulo   
+    **Autor**: Se pondrá solo el primer apellido del primer autor.  
+    **Edición**: Se pondrá el número de la edición    
+    **Estructura**: Título - Apellido - Edición   
+    **Ejemplo**: Historia de la Filosofía - Delius - 3ed.pdf
 
-> 
+!!! error "Nomenclatura inadecuada"
+    **Ejemplos:**  
+    - Historia 3ed (Marco).pdf  
+    - Historia de la filosofia.pdf  
+    - Delius - Historia de la filosofía.pdf   
+    - Historia de la filosofía - 3 edición - Delius.pdf  
+    - Historia de la filosfía-Delius-3ed.pdf   
 
-  **Estructura**  ``Título - Apellido - Edición``   
-  **Ejemplo**     ``Historia de la Filosofía - Delius - 3ed.pdf``
 
   Paso 1: Hacer click en el botón Guardar PDF, poner el nombre del archivo y guardar en la carpeta seleccionada.
 ![](./Fotos/14.jpg)
-
   
-!!! note "Informacion importante"
-     Hola mundo
+[^1]: Archivo General de la Nación de Colombia. (2017). [Guía de uso del PDF/A](https://www.archivogeneral.gov.co/sites/default/files/2018-02/GuiaUso_PDF22-11-2017_VF_Consulta_p%C3%BAblica.pdf).

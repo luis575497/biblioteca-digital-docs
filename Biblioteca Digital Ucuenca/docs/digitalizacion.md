@@ -118,10 +118,10 @@ Para páginas de libros donde solo imágenes se utilizará la siguiente configur
 | ------------ | --------------- | ------------------------- | ------------ | --------------- | ------------------- |
 | Óptima       | 300 dpi         | Color 24 bits             | PDF          | Ninguna         | OCR                 | 
   
+>
 
-### Digitalización con software NAPS2:
-  
-  Paso 1: Abrir Software
+### Digitalización con software NAPS2:  
+Paso 1: Abrir Software
 ![](./Fotos/3.jpg)
   
   Paso 2: Seleccionar el botón **Perfiles**
@@ -135,6 +135,8 @@ Para páginas de libros donde solo imágenes se utilizará la siguiente configur
   
   Paso 5: Comenzar a digitalizar haciendo click en el botón Escanear:
 ![](./Fotos/8.jpg)
+
+### Digitalzación con dispositivos móviles
 
 ### Metadatos
 Los metadatos que se cargarán al documento pdf serán los siguientes:
@@ -171,12 +173,6 @@ Una vez escaneado todo el documento e incluidos los metadatos se procederá a gu
   Paso 1: Hacer click en el botón Guardar PDF, poner el nombre del archivo y guardar en la carpeta seleccionada.
 ![](./Fotos/14.jpg)
 
-## Preservación digital
-### Almacenamiento
-Los documentos digitalizados se almacenarán de manera permanente en una unidad compartida en Google Drive de la Universidad de Cuenca. Para garantizar la integridad y correcto funcionamiento de este sistema solo un responsable por campus tendrá acceso de edición a dicha unidad compartida y deberá cargar los libros electrónicos en la carpeta que corresponda con su Clasificación Decimal Dewey. 
-El sistema de carpetas en esta unidad compartida solo permite dos niveles de jerarquía para carpetas anidadas 
   
-  - 100 Filosofía y Psicología  
-     - 110 Metafísica  
-     - 120 Epistemología  
-  
+!!! note "Informacion importante"
+     Hola mundo

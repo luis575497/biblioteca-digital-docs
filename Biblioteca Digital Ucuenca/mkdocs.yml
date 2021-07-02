@@ -1,8 +1,17 @@
 site_name: Biblioteca Digital Ucuenca
 
 nav:
-    - Biblioteca Digital Ucuenca: index.md
+    - Inicio: index.md
     - Guía de Digitalización: digitalizacion.md
+    - Directrices de Metadatos:
+        - metadatos/directrices.md
+        - Libros: 
+          - Descripción General: metadatos/libros.md
+          - Título: metadatos/titulo.md
+          - Título Alternativo: metadatos/tit_alter.md
+          - Autor: metadatos/autor.md
+        - Revistas: metadatos/revistas.md
+        - Tesis: metadatos/tesis.md
     - About: about.md
 
 markdown_extensions:
@@ -25,6 +34,12 @@ markdown_extensions:
         custom_checkbox: true
     - pymdownx.tilde
 
-theme: readthedocs
+theme: 
+  name: material 
+  features:
+    - navigation.expand
+    - navigation.tabs 
+    - navigation.indexes
+    - navigation.top
 
 footer: "Creado por el Centro de Documentación Regional Juan Bautista Vázquez"

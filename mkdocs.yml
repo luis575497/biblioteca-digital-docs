@@ -7,9 +7,17 @@ nav:
         - metadatos/directrices.md
         - Libros: 
           - Descripción General: metadatos/libros.md
-          - Título: metadatos/titulo.md
-          - Título Alternativo: metadatos/tit_alter.md
-          - Autor: metadatos/autor.md
+          - 1. Título: metadatos/titulo.md
+          - 2. Título Alternativo: metadatos/tit_alter.md
+          - 3. Autor: metadatos/autor.md
+          - 4. Materia: metadatos/materia.md
+          - 5. Palabras clave: metadatos/pclave.md
+          - 6. Resumen: metadatos/resumen.md
+          - 7. Abstract: metadatos/abstract.md
+          - 8. Fuente: metadatos/fuente.md
+          - 9. Tipo de Publicación: metadatos/tipo_pub.md
+          - 10. Publicaciones relacionadas: metadatos/pub_rel.md
+          - 11. Serie o Colección: metadatos/serie.md
         - Revistas: metadatos/revistas.md
         - Tesis: metadatos/tesis.md
     - About: about.md
@@ -37,7 +45,6 @@ markdown_extensions:
 theme: 
   name: material 
   features:
-    - navigation.expand
     - navigation.tabs 
     - navigation.indexes
     - navigation.top

@@ -1,8 +1,7 @@
-## __ Autor (M)__
 Elemento Dublin Core: `dc:creator`
 
 ### __Definición__
-Entidad  principal  responsable  del  contenido  del  recurso.  Puede designar a un autor personal, institucional o evento  (Conferencia, reunión, etc.).   En  caso  de  múltiples  responsables. 
+Entidad  principal  responsable  del  contenido  del  recurso.  Puede designar a un autor personal, institucional o evento  (Conferencia, reunión, etc.).   En  caso  de  múltiples  responsables repetir tantas veces como sea necesario. 
 
 ### __Uso__
 Obligatorio y repetible  
@@ -13,7 +12,8 @@ Obligatorio y repetible
 3. En ningún caso las funciones deben ir agregadas a los Apellidos, Nombres (Dr. etc.)  
 4. En  los  casos  de  menor  responsabilidad,  con  excepción  de  la autoría, se utilizará dc:contributor. 
 5. Si la naturaleza de la responsabilidad es ambigua, las mejores prácticas recomendadas es utilizar dc:publisher para organizaciones
-
+6. Se utilizará la forma normalizada del autor según el Catálogo Internacional de Autoridades (VIAF).
+  
 ### __Ejemplos__
 
 !!! done "Uso Correcto:"  

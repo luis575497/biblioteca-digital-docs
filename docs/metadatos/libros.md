@@ -14,14 +14,14 @@ __Opcional (O)__: No es importante si la propiedad se usa o no, pero si se usa p
 |1    | [Título](titulo.md)                    | No        | M   |                                  | 
 |2    | [Título alternativo](tit_alter.md)        | Si        | R  |                                  | 
 |3    | [Autor](autor.md)                     | Si        | M   |       [VIAF](http://viaf.org/)   | 
-|4    | Materia                   | Si        | MA  | [Tesauro Unesco](http://vocabularies.unesco.org/browser/thesaurus/es/)                   | 
-|5    | Palabras Clave            | Si        | MA  |                                  | 
-|6    | Resumen                   | No        | MA  |                                  | 
-|7    | Abstract                  | No        | MA  |                                  | 
-|8    | Fuente                    | Si        | R   |                                  | 
-|9    | Tipo de Publicación       | No        | M   | info:eu-repo/semantic            | 
-|10   | Publicaciones relacionadas| S         | O   |                                  | 
-|11   | Serie o Colección         | No        | MA  |                                  | 
+|4    | [Materia](materia.md)                   | Si        | MA  | [Tesauro Unesco](http://vocabularies.unesco.org/browser/thesaurus/es/)                   | 
+|5    | [Palabras Clave](pclave.md)            | Si        | MA  |                                  | 
+|6    | [Resumen](resumen.md)                   | No        | MA  |                                  | 
+|7    | [Abstract](abstract.md)                  | No        | MA  |                                  | 
+|8    | [Fuente](fuente.md)                    | Si        | R   |                                  | 
+|9    | [Tipo de Publicación](tipo_pub.md)       | No        | M   | info:eu-repo/semantic            | 
+|10   | [Publicaciones relacionadas](pub_rel.md)| Si         | O   |                                  | 
+|11   | [Serie o Colección](serie.md)         | No        | MA  |                                  | 
 |12   | Edición                   | Si        | MA  |                                  | 
 |13   | Cobertura Temporal        | Si        | R   |                                  | 
 |14   | Cobertura geográfica      | Si        | R   | [Tesauro del Gettys](https://www.getty.edu/research/tools/vocabularies/tgn/)               | 

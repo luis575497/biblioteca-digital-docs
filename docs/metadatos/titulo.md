@@ -1,4 +1,3 @@
-## __Título (M)__
 Elemento Dublin Core: `dc:title`
 
 ### __Definición__

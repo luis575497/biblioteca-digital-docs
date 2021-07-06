@@ -1,4 +1,5 @@
-Elemento Dublin Core: `dc:description`
+Elemento Dublin Core: `dc:description`  
+<span style="color:#CD113B">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 
 ### __Definición__
 Este elemento se utiliza para una descripción textual del contenido. Cuando un recurso se compone de varios archivos de objetos físicos separados, no use dc:description para enumerar las direcciones URL de estos archivos. 

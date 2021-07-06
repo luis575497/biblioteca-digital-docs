@@ -1,4 +1,5 @@
-Elemento Dublin Core: `dc:source`
+Elemento Dublin Core: `dc:source`  
+<span style="color:#CD113B">Recursos a los que se aplica: __Libros y revistas__ </span>
 
 ### __Definición__
 Una referencia a un recurso del que se deriva el presente recurso.  

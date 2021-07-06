@@ -1,4 +1,5 @@
-Elemento Dublin Core: `dc:title.alternative`
+Elemento Dublin Core: `dc:title.alternative`  
+<span style="color:#CD113B">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>  
 
 ### __Definición__
 Cualquier título utilizado como sustituto o alternativo al título oficial por el cual se conoce al recurso.  

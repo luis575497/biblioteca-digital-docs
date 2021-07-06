@@ -1,4 +1,5 @@
-Elemento Dublin Core: `dc:creator`
+Elemento Dublin Core: `dc:creator`  
+<span style="color:#CD113B">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>  
 
 ### __Definición__
 Entidad  principal  responsable  del  contenido  del  recurso.  Puede designar a un autor personal, institucional o evento  (Conferencia, reunión, etc.).   En  caso  de  múltiples  responsables repetir tantas veces como sea necesario. 

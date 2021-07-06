@@ -32,7 +32,7 @@ __Opcional (O)__: No es importante si la propiedad se usa o no, pero si se usa p
 |17   | [Identificador alternativo](identif_alter.md) | Si        | R   | info:eu-repo/semantics/altidentifier             | 
 |18   | [Editorial](editorial.md)               | Si        | MA  |                                  | 
 |19   | [Nivel de Acceso](acceso.md)            | No        | M   |                                  | 
-|20   | [Condición de la licencia](licencia.md)  | No        | R   | [Copyright](https://rightsstatements.org/),  Creative Commons   | 
+|20   | [Condición de la licencia](licencia.md)  | No        | M   | [Copyright](https://rightsstatements.org/),  Creative Commons   | 
 |21   | Fecha de Publicación      | No        | O   |        ISO 8601                  | 
 |22   | Fecha de Copyright        | No        | R   |        ISO 8601                  | 
 |23   | Fecha de Disponibilidad   | No        | MA  |          ISO 8601                | 

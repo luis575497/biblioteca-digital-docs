@@ -27,6 +27,15 @@ nav:
           - 18. Editorial: metadatos/editorial.md
           - 19. Nivel de Acceso: metadatos/acceso.md
           - 20. Condición de la licencia: metadatos/licencia.md
+          - 21. Fecha de Publicación: metadatos/fpublicacion.md
+          - 22. Fecha de Copyright: metadatos/fcopyright.md
+          - 23. Fecha de Disponibilidad: metadatos/fdisp.md
+          - 24. Fecha de Modificación: metadatos/fmodif.md
+          - 25. Fecha de Aceptación: metadatos/facept.md
+          - 26. Formato: metadatos/formato.md 
+          - 27. Extensión: metadatos/paginas.md
+          - 28. Idioma: metadatos/idioma.md
+          - 29. Audiencia: metadatos/audiencia.md
     - About: about.md
 
 markdown_extensions:

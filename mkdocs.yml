@@ -57,8 +57,10 @@ theme:
     - navigation.tabs 
     - navigation.indexes
     - navigation.top
-  extra:
-    version:
-      provider: mike
+
+# Versionado
+extra:
+  version:
+    provider: mike
 
 footer: "Creado por el Centro de Documentación Regional Juan Bautista Vázquez"

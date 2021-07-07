@@ -1,4 +1,4 @@
-name: Biblioteca-Digital deploy docs
+name: ci
 
 on:
   push:

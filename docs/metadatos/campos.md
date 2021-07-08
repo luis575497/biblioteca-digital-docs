@@ -5,16 +5,16 @@ En cada campo se especifíca a que tipos de recursos puede aplicarse.
 ### Nivel de obligatoriedad para cada propiedad:  
     
 __Obligatorio (M)__:   
-La propiedad siempre debe estar presente en los metadatos. No se permite un valor vacío en esta propiedad  
+:   La propiedad siempre debe estar presente en los metadatos. No se permite un valor vacío en esta propiedad  
 
 __Obligatorio cuando se aplica (MA)__:  
-Cuando se puede obtener el valor de la propiedad, debe estar presente en los metadatos.  
+:   Cuando se puede obtener el valor de la propiedad, debe estar presente en los metadatos.  
 
 __Recomendado (R)__:  
-Se recomienda el uso de la propiedad.  
+:   Se recomienda el uso de la propiedad.  
 
 __Opcional (O)__:  
- No es importante si la propiedad se usa o no, pero si se usa puede proporcionar información complementaria sobre el recurso.  
+:   No es importante si la propiedad se usa o no, pero si se usa puede proporcionar información complementaria sobre el recurso.  
   
   
 

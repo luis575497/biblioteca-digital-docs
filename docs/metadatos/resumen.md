@@ -16,7 +16,7 @@ Obligatorio cuando se aplica y repetible
 ### __Ejemplos__
 
 !!! done "Uso Correcto:"  
-    `<dc:description>` rólogo Hazel Anderson -- Introducción -- La herejía científica:  la transformación  de  una  sociedad --  La  conciencia  como  realidad causa `</dc:description>`   
+    `<dc:description>` Prólogo Hazel Anderson -- Introducción -- La herejía científica:  la transformación  de  una  sociedad --  La  conciencia  como  realidad causa `</dc:description>`   
       
     `<dc:description>`Una serie de problemas en el estado cuántico e identificación del sistema dirigido `</dc:description>`
 

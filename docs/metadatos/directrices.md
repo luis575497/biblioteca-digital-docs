@@ -1,3 +1,5 @@
+# Directrices de Catalogación
+
 ##Introducción
 La presente guía se deriva de los siguientes documentos:  
     - *Campos DUBLIN CORE con Directrices OpenAire* elaborado por CEDIA.   

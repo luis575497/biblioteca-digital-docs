@@ -72,7 +72,6 @@ theme:
     - navigation.top
   icon:
     logo: fontawesome/solid/book 
-
 # Versionado
 copyright: Creative Commons 4.0 Atribución (CC-BY-4.0)
 

@@ -1,4 +1,4 @@
-site_name: Biblioteca Digital Ucuenca
+site_name: Biblioteca Digital de La Universidad de Cuenca
 
 nav:
     - Inicio: index.md
@@ -36,7 +36,6 @@ nav:
           - 27. Extensión: metadatos/paginas.md
           - 28. Idioma: metadatos/idioma.md
           - 29. Audiencia: metadatos/audiencia.md
-    - About: about.md
 
 markdown_extensions:
     - admonition
@@ -60,6 +59,7 @@ markdown_extensions:
 
 theme: 
   name: material 
+  language: es
   features:
     - navigation.tracking
     - navigation.expand
@@ -68,8 +68,11 @@ theme:
     - navigation.top
 
 # Versionado
+
 extra:
   version:
     provider: mike
 
-footer: "Creado por el Centro de Documentación Regional Juan Bautista Vázquez"
+plugins: 
+  - mike
+  - search

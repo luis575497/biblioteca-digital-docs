@@ -1,5 +1,5 @@
-site_name: Biblioteca Digital de La Universidad de Cuenca
-
+site_name: Biblioteca Digital
+site_author: Luis Enrique Lescano
 nav:
     - Inicio: index.md
     - Guía de Digitalización: digitalizacion.md
@@ -59,6 +59,7 @@ markdown_extensions:
 
 repo_name: luis575497/biblioteca-digital-docs
 repo_url: https://github.com/luis575497/biblioteca-digital-docs
+edit_uri: ""
 
 theme: 
   name: material 
@@ -84,3 +85,4 @@ extra:
       link: https://github.com/luis575497/biblioteca-digital-docs
 plugins:    
   - search
+  - git-revision-date

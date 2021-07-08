@@ -66,12 +66,18 @@ theme:
     - navigation.tabs 
     - navigation.indexes
     - navigation.top
-
+  icon:
+    logo: fontawesome/solid/book 
+    repo: fontawesome/brands/git-al
 # Versionado
+copyright: Creative Commons 4.0 Atribución (CC-BY-4.0)
 
 extra:
+  generator: false
   version:
     provider: mike
-
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/luis575497/biblioteca-digital-docs
 plugins:    
   - search

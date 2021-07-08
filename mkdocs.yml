@@ -73,6 +73,5 @@ extra:
   version:
     provider: mike
 
-plugins: 
-  - mike
+plugins:    
   - search

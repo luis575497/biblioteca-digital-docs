@@ -1,3 +1,4 @@
+#Fecha de Aceptación
 Elemento Dublin Core: `dc:date.dateAccepted`  
 <span style="color:#CD113B">Recursos a los que se aplica: __Tesis__ </span>
 

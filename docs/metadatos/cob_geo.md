@@ -1,3 +1,4 @@
+#Cobertura geográfica
 Elemento Dublin Core: `dc:coverage.spatial`  
 <span style="color:#CD113B">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 

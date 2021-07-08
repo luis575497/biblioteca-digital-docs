@@ -1,3 +1,4 @@
+#Colaborador
 Elemento Dublin Core: `dc:contributor`  
 <span style="color:#CD113B">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>  
 
@@ -34,5 +35,5 @@ Obligatorio cuando aplica y repetible
     `<dc:contributor>` Andrés Felipe Marmolejo `</dc:contributor>`  
 
     **Uso de grado académico `:`**:  
-        `<dc:contributor>` Dr. Sorensen Michael, James  `</dc:contributor>`
+    `<dc:contributor>` Dr. Sorensen Michael, James  `</dc:contributor>`
 

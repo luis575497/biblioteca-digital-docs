@@ -1,3 +1,4 @@
+#Cobertura temporal
 Elemento Dublin Core: `dc:coverage.temporal`  
 <span style="color:#CD113B">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 

@@ -1,3 +1,4 @@
+#Resumen
 Elemento Dublin Core: `dc:description`  
 <span style="color:#CD113B">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 

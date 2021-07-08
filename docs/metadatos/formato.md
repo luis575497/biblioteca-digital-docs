@@ -1,3 +1,4 @@
+#Formato
 Elemento Dublin Core: `dc:format`  
 <span style="color:#CD113B">Recursos a los que se aplica: __Revistas__ </span>
 

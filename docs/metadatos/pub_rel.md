@@ -1,3 +1,4 @@
+#Publicaciones relacionadas
 Elemento Dublin Core: `dc:relation`  
 <span style="color:#CD113B">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 

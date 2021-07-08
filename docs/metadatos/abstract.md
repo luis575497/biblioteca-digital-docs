@@ -1,3 +1,4 @@
+#Abstract
 Elemento Dublin Core: `dc:description.abstract`  
 <span style="color:#CD113B">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 

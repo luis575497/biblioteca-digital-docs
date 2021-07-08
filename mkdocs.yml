@@ -57,6 +57,9 @@ markdown_extensions:
         custom_checkbox: true
     - pymdownx.tilde
 
+repo_name: luis575497/biblioteca-digital-docs
+repo_url: https://github.com/luis575497/biblioteca-digital-docs
+
 theme: 
   name: material 
   language: es
@@ -68,7 +71,7 @@ theme:
     - navigation.top
   icon:
     logo: fontawesome/solid/book 
-    repo: fontawesome/brands/git-al
+
 # Versionado
 copyright: Creative Commons 4.0 Atribución (CC-BY-4.0)
 

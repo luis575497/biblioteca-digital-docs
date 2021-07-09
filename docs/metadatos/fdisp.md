@@ -1,6 +1,6 @@
 #Fecha de Disponibilidad
 Elemento Dublin Core: `dc:date.available`  
-<span style="color:#CD113B">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
+<span style="color:#3F72AF">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 
 ### __Definición__
 Fecha en que el recurso estuvo o estará disponible.

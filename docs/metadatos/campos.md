@@ -1,20 +1,19 @@
 # Descripción General 
-Esta sección describe cada uno de los metadatos que deben ser considerados para el registro de recursos de información en la Biblioteca Digital de la Universidad de Cuenca.  
-En cada campo se especifíca a que tipos de recursos puede aplicarse.
+Esta sección describe cada uno de los metadatos que deben ser considerados para el registro de información en la Biblioteca Digital de la Universidad de Cuenca. Cada campo especifica su marco de aplicación, es decir, libros, revisitas o tesis.
 
 ### Nivel de obligatoriedad para cada propiedad:  
     
 __Obligatorio (M)__:   
-:   La propiedad siempre debe estar presente en los metadatos. No se permite un valor vacío en esta propiedad  
+:   Este campo debe ser llenado de manera obligatoria, no se permite un valor vacío.  
 
 __Obligatorio cuando se aplica (MA)__:  
-:   Cuando se puede obtener el valor de la propiedad, debe estar presente en los metadatos.  
+:   Si la información está presente en el recurso, es obligatoria ingresarlo en el campo.  
 
 __Recomendado (R)__:  
 :   Se recomienda el uso de la propiedad.  
 
 __Opcional (O)__:  
-:   No es importante si la propiedad se usa o no, pero si se usa puede proporcionar información complementaria sobre el recurso.  
+:   No es importante si el campo se usa o no, pero si se usa puede proporcionar información complementaria sobre el recurso.  
   
   
 

@@ -10,8 +10,8 @@ Obligatorio y no repetible
 
 ### __Instrucciones__
 1. Transcribir el título del original, en orden y ortografía del recurso. 
-2. Utilizar mayúsculas únicamente para la primera palabra del título y los nombres propios. 
-3. Los subtítulos deben   separarse del título mediante dos puntos, precedidos y seguidos por un espacio. 
+2. Utilizar mayúsculas únicamente para la primera letra de la palabra del título y los nombres propios. 
+3. Los subtítulos deben separarse del título mediante dos puntos, precedidos y seguidos por un espacio. 
 4. Cuando el recurso tenga el título en más de un idioma, colocar cada título en instancias separadas del elemento. 
 
 !!! error "Signos de puntuación"
@@ -19,7 +19,7 @@ Obligatorio y no repetible
 ### __Ejemplos__
 
 !!! done "Título con subtítulo:"  
-    `<dc:title>` Título principal: Subtítulo `</dc:title>`    
+    `<dc:title>` Título principal: subtítulo `</dc:title>`    
 
 
 !!! error "Uso Incorrecto"

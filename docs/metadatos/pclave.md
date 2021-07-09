@@ -3,7 +3,7 @@ Elemento Dublin Core: `dc:subject`
 <span style="color:#3F72AF">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 
 ### __Definición__
-La  temática  del  recurso se  expresa  típicamente  en  palabras clave,  descriptores  y/o  códigos  de  clasificación  que  describen  el contenido intelectual del recurso. 
+Palabras del lenguaje natural que describen  el contenido intelectual del recurso. 
 
 ### __Uso__
 Obligatorio cuando se aplica y repetible  

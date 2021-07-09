@@ -1,6 +1,6 @@
 #Condición de la licencia
 Elemento Dublin Core: `dc:rights`  
-<span style="color:#CD113B">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
+<span style="color:#3F72AF">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 
 ### __Definición__
 Información acerca de los derechos contenidos en y sobre el recurso.

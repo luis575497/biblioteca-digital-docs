@@ -1,6 +1,6 @@
 #Fecha de Modificación
 Elemento Dublin Core: `dc:date.modified`  
-<span style="color:#CD113B">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
+<span style="color:#3F72AF">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 
 ### __Definición__
 Fecha en la que se cambió el recurso.

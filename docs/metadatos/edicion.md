@@ -1,6 +1,6 @@
 #Edición
 Elemento Dublin Core: `dc:relation.isVersionOf`  
-<span style="color:#CD113B">Recursos a los que se aplica: __Libros__ </span>
+<span style="color:#3F72AF">Recursos a los que se aplica: __Libros__ </span>
 
 ### __Definición__
 Referencia a la edición del recurso que se describe.  

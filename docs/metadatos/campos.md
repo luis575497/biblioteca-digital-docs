@@ -1,5 +1,5 @@
 # Descripción General 
-Esta sección describe cada uno de los metadatos que deben ser considerados para el registro de información en la Biblioteca Digital de la Universidad de Cuenca. Cada campo especifica su marco de aplicación, es decir, libros, revisitas o tesis.
+Esta sección describe cada uno de los metadatos que deben ser considerados para el registro de información en la Biblioteca Digital. Cada campo especifica su marco de aplicación, es decir, libros, revisitas o tesis.
 
 ### Nivel de obligatoriedad para cada propiedad:  
     

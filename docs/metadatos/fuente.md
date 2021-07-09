@@ -15,8 +15,8 @@ Recomendado y repetible
 
 ### __Ejemplos__
 
-!!! done "Uso Correcto:"
-   ` <dc:source>` Izquierdo, J. M. (2014). Los proyectos recopiladores castellanos del siglo XVI en los códices del monasterio del Escorial. Madrid: Dynkinson `</dc:source>`
+!!! done "Uso Correcto:"  
+    ` <dc:source>` Izquierdo, J. M. (2014). Los proyectos recopiladores castellanos del siglo XVI en los códices del monasterio del Escorial. Madrid: Dynkinson `</dc:source>`
 
 
 !!! error "Uso Incorrecto"

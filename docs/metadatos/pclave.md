@@ -11,9 +11,10 @@ Obligatorio cuando se aplica y repetible
 ### __Instrucciones__
 1. Deben consignarse tantas ocurrencias del elemento, como descriptores sea necesario asignar.
 2. Se utilizan palabras del lenguaje natural (vocabulario no controlado).  
-3. Para nombres personales utilizar el formato invertido de tal forma que la sintaxis sea: “Apellido (s)” + “, “+ “Nombre (s)”.   
+3. Para nombres personales utilizar el formato invertido de tal forma que la sintaxis sea: “Apellido , “Nombre (s)”.   
 4. Si la materia del recurso es una persona o una organización, registrar la misma siguiendo las normas establecidas por las reglas RCAA2r.  
-5. Las palabras claves deben escribirse en al igual que las palabas del tesauro, solo con la primera palabra en mayúsculas.
+5. Las palabras claves deben escribirse solo con la primera palabra en mayúsculas.  
+
 ### __Ejemplos__
 
 !!! done "Uso Correcto:"  

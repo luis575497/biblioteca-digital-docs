@@ -9,9 +9,9 @@ Referencia a la edición del recurso que se describe.
 Opcional y no repetible  
 
 ### __Instrucciones__  
-1. Escribir la versión de con valores no literales.
-2. Para las reimpresiones utilizar el siguiente formato: `edición / reimpresión`
-3. Se toma en cuenta la primera edición
+1. Escribir la versión con valores no literales.
+2. Para las reimpresiones utilizar el siguiente formato: `edición / reimpresión`.
+3. Se toma en cuenta la primera edición.
 
 ### __Ejemplos__
 

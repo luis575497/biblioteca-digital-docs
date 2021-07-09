@@ -11,13 +11,13 @@ Recomendado y repetible
 ### __Instrucciones__  
 1. Utilizar cuando el contenido del recurso exprese de manera clara la cobertura temporal (intervalos de tiempo).  
 2. Utilizar el nombre de un período histórico, cultural, arqueológico, geológico, cosmológico o un rango de fechas.
-3. Los intervalos de tiempo también icluyen: nombres de dinastías, familias olistado de gobernantes.
+3. Los intervalos de tiempo también incluyen: nombres de dinastías, familias o listados de gobernantes.
 4. Repetir para cubrir varios períodos.
 
 ### __Ejemplos__
 
 !!! done "Uso Correcto:"  
-    `<dc:coverage.temporal>` Perídodo Clásico `</dc:relation.temporal>`  
+    `<dc:coverage.temporal>` Período Clásico `</dc:relation.temporal>`  
     `<dc:coverage.temporal>` Siglo XXI `</dc:relation.temporal>`  
     `<dc:coverage.temporal>` 2000-2010 `</dc:relation.temporal>`  
     `<dc:coverage.temporal>` Dinastía Ming `</dc:relation.temporal>`  

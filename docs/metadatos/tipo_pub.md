@@ -3,16 +3,16 @@ Elemento Dublin Core: `dc:type`
 <span style="color:#3F72AF">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 
 ### __Definición__
-iTipo de producción científica de la que es manifestación el recurso. Describe el género del recurso.  
+Tipo de producción científica de la que es manifestación el recurso. Describe el género del recurso.  
 
 ### __Uso__
 Obligatorio y no repetible   
 
 ### __Instrucciones__  
-1. Se utiliza para explicar al usuario qué tipo de recurso está mirando, si sSe trata de un libro, artículo o una tesis.
+1. Se utiliza para explicar al usuario qué tipo de recurso está mirando, si se trata de un libro, artículo, una tesis etc.
 2. Seleccionar el valor utilizando el vocabulario normalizado `info:eu-repo/semantic`
 !!! info "Solo para tesis"
-        Para las tesis que no se encuentren dentro del vocabulario controlado seleccionar la opción `info:eu-repo/semantics/other` y seleccionar la opción correspondiente en el *Catálogo de Mecanismos de Titulación* del SENESCYT  
+        Para las tesis que no se encuentren dentro del vocabulario controlado seleccionar la opción `info:eu-repo/semantics/other` y elegir la opción correspondiente en el *Catálogo de Mecanismos de Titulación* del SENESCYT  
 
 ### **Vocabulario Controlado** 
 Se utilizaran los siguientes valores del vocabulario `info:eu-repo/semantics` para este campo:   

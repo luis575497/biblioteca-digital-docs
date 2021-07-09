@@ -1,6 +1,6 @@
 #Formato
 Elemento Dublin Core: `dc:format`  
-<span style="color:#CD113B">Recursos a los que se aplica: __Revistas__ </span>
+<span style="color:#3F72AF">Recursos a los que se aplica: __Revistas__ </span>
 
 ### __Definición__
 La manifestación física o digital del recurso.

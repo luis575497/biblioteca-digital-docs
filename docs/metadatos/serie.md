@@ -11,7 +11,8 @@ Obligatorio cuando se aplica y no es repetible
 ### __Instrucciones__  
 1. La relación de este campo es esencialmente jerárquica de padre / hijo.
 2. Indicar si el recurso pertenece a una colección o serie.
-3. La estructura sería la siguientes: Coleccion: Subcolección, No.  
+3. La estructura sería la siguientes: `Coleccion: Subcolección, No. `
+4. Para las revistas utilizar la siguiente estructura: `Volumen. Número`
 
 !!! tip
     **Libros:** Indicar la colección a la que pertenece.  

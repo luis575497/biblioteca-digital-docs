@@ -1,6 +1,6 @@
 #Audiencia
 Elemento Dublin Core: `dcterms:audience`  
-<span style="color:#CD113B">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
+<span style="color:#3F72AF">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 
 ### __Definición__
 La clase de usuarios para la que el recurso está diseñado o puede ser de utilidad.

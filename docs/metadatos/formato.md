@@ -9,7 +9,7 @@ La manifestación física o digital del recurso.
 Obligatorio y repetible  
 
 ### __Instrucciones__  
-1. Seleccionar el valor del vocabulario controlado MIME ( lista de tipos de medios de Internet) que definen los formatos de medios informáticos).
+1. Seleccionar el valor del vocabulario controlado MIME ( lista de tipos de medios de Internet) que definen los formatos de medios informáticos.
 2. Ver la lista completa de tipos MIME en: http://www.iana.org/assignments/media-types
 3. Si un recurso específico (una instancia de la producción científica) tiene más de un formato físico (por ejemplo, Word y PDF) almacenados como archivos de objetos diferentes, se duplicara este elementos para todos los formatos que posee el recurso.
 

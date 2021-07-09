@@ -3,4 +3,4 @@ Utilice los siguientes documentos como referencia para digitalizar o realizar el
 ![](./Fotos/6607.jpg)  
 
 
-<a href='https://www.freepik.com/vectors/school'>School vector created by pch.vector - www.freepik.com</a>
+<a href='https://www.freepik.com/vectors/school' style="text-align: center> School vector created by pch.vector - www.freepik.com</a>

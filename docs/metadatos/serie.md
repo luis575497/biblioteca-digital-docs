@@ -1,6 +1,6 @@
 #Serie o Colección
 Elemento Dublin Core: `dc:relation.isPartOf`  
-<span style="color:#CD113B">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
+<span style="color:#3F72AF">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 
 ### __Definición__
 Un recurso relacionado en el que el recurso descrito se incluye física o lógicamente.  

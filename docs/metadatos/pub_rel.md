@@ -10,11 +10,10 @@ Opcional y repetible
 
 ### __Instrucciones__  
 1. Este metadato proporciona información sobre las relaciones del recurso que se describe con otros, por ejemplo, una relación cronológica, la relación del mismo recurso en otro formato u otros idiomas, pero con el mismo contenido intelectual, etcétera.
-2. Pueden ingresar múltiples relaciones como el recurso lo requiera.
-3. Las relaciones establecidas han de expresarse de manera específica y directa por medio de cualificadores o términos.
+2. Puede duplicar el campo para ingresar múltiples relaciones.
+3. Utilizar identificadores únicos preferiblemente.
 4. Es recomendable utilizar el estilo APA para agregar los datos bibliográficos del recurso relacionado.
-5. Utilizar identificadores únicos
-6. No confundir con el metadato <dc:source>
+5. No confundir con el metadato `<dc:source>`
 
 ### __Ejemplos__
 

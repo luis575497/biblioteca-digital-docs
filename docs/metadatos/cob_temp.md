@@ -1,6 +1,6 @@
 #Cobertura temporal
 Elemento Dublin Core: `dc:coverage.temporal`  
-<span style="color:#CD113B">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
+<span style="color:#3F72AF">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 
 ### __Definición__
 Extensión o alcance del contenido del recurso en un marco temporal.  

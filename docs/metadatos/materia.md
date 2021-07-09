@@ -11,7 +11,7 @@ Obligatorio cuando se aplica y repetible
 ### __Instrucciones__
 1. Deben consignarse tantas ocurrencias del elemento, como descriptores sea necesario asignar.
 2. Los términos se consignan como aparecen en los tesauros.  
-3. Para nombres personales utilizar el formato invertido de tal forma que la sintaxis sea: “Apellido (s)” + “, “+ “Nombre (s)”.   
+3. Para nombres personales utilizar el formato invertido de tal forma que la sintaxis sea: “Apellido (s), “Nombre (s)”.   
 4. Si la materia del recurso es una persona o una organización, registrar la misma siguiendo las normas establecidas por las reglas RCAA2r.  
 5. Se usará los siguiente vocabularios controlados:
     - [Tesauro de la Unesco](http://vocabularies.unesco.org/browser/thesaurus/es/) 

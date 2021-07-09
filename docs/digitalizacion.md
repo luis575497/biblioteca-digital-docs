@@ -1,9 +1,9 @@
-# Guía de Digitalización del Centro de Documentación Regional Juan Bautista Vázquez
+# Guía de Digitalización
 ## Objetivo
-El objetivo de la presente guía es establecer los parámetros y secuencia de las actividades a ejecutar durante el proceso de digitalización de las colecciones en soporte papel, así como la conservación digital y las formas de acceso a la información digitalizada que gestione el Centro de Documentación Regional Juan Bautista Vázquez de la Universidad de Cuenca.
+El objetivo de la presente guía es establecer los parámetros y secuencia de las actividades a ejecutar durante el proceso de digitalización de las colecciones en soporte papel, así como la conservación digital y las formas de acceso a la información digitalizada .
 
 ## Alcance
-La presente guía aplica para las bibliotecas que conforman al Centro de Documentación Regional Juan Bautista Vázquez y sus respectivas colecciones bibliográficas. Cabe mencionar que este es un proceso transversal a la organización puesto que es un servicio enfocado al usuario por lo que pueden intervenir personal del área de servicios o de procesos técnicos.
+La presente guía aplica para las bibliotecas  y sus respectivas colecciones bibliográficas. Cabe mencionar que este es un proceso transversal a la organización puesto que es un servicio enfocado al usuario por lo que pueden intervenir personal del área de servicios o de procesos técnicos.
 
 ## Terminología
 __PDF:__ es un formato de almacenamiento para documentos digitales independiente de plataformas de software o hardware. 
@@ -56,7 +56,7 @@ Para poder iniciar el proceso de digitalización se deberá seleccionar los docu
 - Cantidad de volúmenes publicados.
 - Importancia histórica, social o patrimonial del documento.
 - Viabilidad de equipamientos y personal para llevar a cabo el proceso de digitalización.
-- Libros que se encuentran en los sílabos de las carreras de la Universidad de Cuenca.
+- Libros que se encuentran en los sílabos de las carreras.
 
 ## Acciones de verificación antes de digitalizar.
 Con la finalidad de garantizar que el proceso de digitalización se realice de forma efectiva, antes de proceder con la digitalización se deberá comprobar en el documento los siguientes aspectos:
@@ -102,7 +102,7 @@ Antes de comenzar la digitalización se deberá incluir el documento en el regis
     - **Responsable de la digitalización:** Persona que realiza o supervisa el proceso de digitalización.
 
 ### Especificaciones técnicas para captura digital
-El Centro de Documentación Regional Juan Bautista Vázquez por motivos de almacenamiento ha decidido que en el proceso de digitalización no existirán copias master sino que directamente se convertirán todas las imágenes en el estándar de formato PDF/A-3b, debido a que es un formato adecuado para la conservación a largo plazo de los documentos además que esta versión permite compresión, elementos transparentes y capas. 
+Por motivos de almacenamiento se ha decidido que en el proceso de digitalización no existirán copias master sino que directamente se convertirán todas las imágenes en el estándar de formato PDF/A-3b, debido a que es un formato adecuado para la conservación a largo plazo de los documentos además que esta versión permite compresión, elementos transparentes y capas. 
     
 !!! cite "Definición de PDF/A" 
     El PDF/A es un PDF diseñado para el archivado de documentos a largo plazo. Se sustenta por la Norma Técnica ISO 19005-1:2005. Para este caso largo plazo es la expresión utilizada para identificar la necesidad de preservar funcionalmente documentos electrónicos por espacios de tiempo superiores a 5 años. PDF/A es el primer formato de archivo electrónico convertido en estándar ISO, que garantiza que los documentos que se crean hoy, se podrán abrir y utilizar en el futuro.[^1]

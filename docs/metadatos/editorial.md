@@ -1,6 +1,6 @@
 #Editorial
 Elemento Dublin Core: `dc:publisher`  
-<span style="color:#CD113B">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
+<span style="color:#3F72AF">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 
 ### __Definición__
 Entidad responsable de hacer que el recurso esté disponible.

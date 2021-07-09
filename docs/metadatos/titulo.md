@@ -1,6 +1,6 @@
 #Título
 Elemento Dublin Core: `dc:title`  
-<span style="color:#CD113B">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
+<span style="color:#3F72AF">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 
 ### __Definición__
 Nombre que se da al recurso. Normalmente, el título es un nombre por el cual el recurso es conocido formalmente. 

@@ -9,9 +9,9 @@ Extensión o alcance del contenido del recurso en un marco geográfico.
 Recomendado y repetible  
 
 ### __Instrucciones__  
-1. Emplear este elemento en caso de el recurso especificar de manera clara la covertura temporal
-2. Se empleará el vocabulario controlado [“Getty Thesaurus of Geographic Names”](http://www.getty.edu/research/tools/vocabularies/tgn/)
-3. Se consideraran como coberturas geográficas un nombre definido por un diccionario geográfico o coordenadas de un punto
+1. Emplear este elemento cuando el contenido del recurso exprese de manera clara la cobertura temporal.
+2. Se empleará el vocabulario controlado [“Getty Thesaurus of Geographic Names”](http://www.getty.edu/research/tools/vocabularies/tgn/).
+3. Se consideraran como coberturas geográficas un nombre definido por un diccionario geográfico o coordenadas de un punto.
 
 ### __Ejemplos__
 

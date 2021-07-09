@@ -9,8 +9,8 @@ Información acerca de los derechos contenidos en y sobre el recurso.
 Obligatorio y no repetible  
 
 ### __Instrucciones__  
-1. Típicamente, un elemento de derechos contendrá una declaración de gestión de derechos para el acceso o uso del objeto, o hacer referencia a un servicio que proporciona dicha información sobre los derechos a menudo abarca los derechos de propiedad intelectual (DPI), el copyright y los derechos de propiedad diferentes. 
-2. Se prefiere para referirse a un servicio de derechos donde se hacen clara los derechos de reutilización para el usuario final mediante el uso de un URL. 
+1. Típicamente, un recurso contendrá una declaración de gestión de derechos para su acceso o uso, también se puede hacer referencia a un servicio que proporcione dicha información sobre los derechos que a menudo abarca los derechos de propiedad intelectual (DPI), el copyright y los derechos de propiedad diferentes. 
+2. Se prefiere para referirse a un servicio de derechos donde se hacen claros los derechos de uso y reutilización para el usuario final mediante una URL. 
 3. Utilizar las licenicas [Creative Commons](https://creativecommons.org/) para las obras que lo requieran y para las obras bajo derecho de autor utilizar las [declaraciones de derecho de autor](https://rightsstatements.org/).
 
 ### __Ejemplos__

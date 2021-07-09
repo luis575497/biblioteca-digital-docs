@@ -3,14 +3,14 @@ Elemento Dublin Core: `dc:relation`
 <span style="color:#3F72AF">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 
 ### __Definición__
-Identificadores alternativos que no son el identificador primario
+Identificadores alternativos, que no son el identificador primario.
 
 ### __Uso__
 Recomendado y repetible  
 
 ### __Instrucciones__  
 1. Los tipos de identificadores se definen por el vocabulario controlado `info:eurepo/semantics/altIdentifier`.
-2. Seleccionar primeramente el tipo de identificador de la lista controdala y posteriormente asignar el valor.
+2. Seleccionar primeramente el tipo de identificador de la lista controdala y posteriormente detallar el valor.
 3. Este identificador sirve para identificar al recurso digital no para identificar autores o colaboradores.
 
 ### __Vocabulario Controlado__

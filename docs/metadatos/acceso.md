@@ -1,6 +1,6 @@
 #Nivel de Acceso
 Elemento Dublin Core: `dcterms:accessRights`  
-<span style="color:#CD113B">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
+<span style="color:#3F72AF">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 
 ### __Definición__
 Especifica el tipo de disposición legal para acceder al recurso.

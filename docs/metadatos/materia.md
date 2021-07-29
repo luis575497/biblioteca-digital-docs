@@ -20,7 +20,7 @@ Obligatorio cuando se aplica y repetible
 ### __Ejemplos__
 
 !!! done "Uso Correcto:"  
-    `<dc:subject>` Anatomía `</dc:subject>`
+    `<dc:subject>` Anatomía `</dc:subject>`  
     `<dc:subject>` Desarrollo económico y social `</dc:subject>`
     
 

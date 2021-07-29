@@ -36,6 +36,7 @@ nav:
           - 27. Extensión: metadatos/paginas.md
           - 28. Idioma: metadatos/idioma.md
           - 29. Audiencia: metadatos/audiencia.md
+          - 30. Versión de la publicación: metadatos/version.md
     - About: about.md
 
 markdown_extensions:

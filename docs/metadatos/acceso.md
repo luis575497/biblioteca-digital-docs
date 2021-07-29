@@ -1,5 +1,5 @@
 #Nivel de Acceso
-Elemento Dublin Core: `dcterms:accessRights`  
+Elemento Dublin Core: `dc:rights`  
 <span style="color:#3F72AF">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 
 ### __Definición__

@@ -1,5 +1,5 @@
 #Idioma
-Elemento Dublin Core: `dc:format.extent`  
+Elemento Dublin Core: `dc:language`  
 <span style="color:#3F72AF">Recursos a los que se aplica: __Libros, revistas y tesis__ </span>
 
 ### __Definición__
@@ -16,7 +16,7 @@ Obligatorio y repetible
 ### __Ejemplos__
 
 !!! done "Uso Correcto:"  
-    `<dc:format.extent>` eng `</dc:format.extent>`  
-    `<dc:format.extent>` deu  `</dc:format.extent>`
-    `<dc:format.extent>` spa  `</dc:format.extent>`
+    `<dc:language>` eng `</dc:language>`  
+    `<dc:language>` deu `</dc:language>`
+    `<dc:language>` spa `</dc:language>`
 

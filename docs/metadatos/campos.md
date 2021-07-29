@@ -47,4 +47,5 @@ __Opcional (O)__:
 |26   | [Formato](formato.md)                   | Si        | M   | MIME Types                       | 
 |27   | [Extensión](paginas.md)                 | Si        | R   |                                  | 
 |28   | [Idioma](idioma.md)                     | Si        | M   | ISO 639-2                                 | 
-|29   | [Audiencia](audiencia.md)               | Si        | R   |                         | 
+|29   | [Audiencia](audiencia.md)               | Si        | R   |                                           | 
+|30   | [Versión de la Publicación](version.md) | No        | MA  | info:eu-repo/semantic                     |
